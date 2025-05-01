@@ -21,7 +21,7 @@
 [![](https://visitcount.itsvg.in/api?id=Maniots&icon=9&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/Maniots) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Maniots) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
