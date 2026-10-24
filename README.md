@@ -1,6 +1,6 @@
 ## Hi, I'm Manuel!💫
 
- Software Developer for BinarySystem student</br>
+ Software Developer for BinarySystem</br>
 🎮 Aspiring Game Developer</br>
 🚀 Eager to learn, build, and collaborate on exciting projects</br> 
 
